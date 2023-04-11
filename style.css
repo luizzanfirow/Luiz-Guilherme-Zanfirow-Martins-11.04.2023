@@ -1,0 +1,17 @@
+:root{--branco-pricipal: #ffffff;
+    --cinza-secundário: #c0c0c0;
+    --botão-azul: #167bf7;
+    --cor-de-fundo:#00030c;}
+    
+    body{background-color: var(--cor-de-fundo);
+    color:var(--branco-principal);}
+    .principal{background-image: url(https://repository-images.githubusercontent.com/506674807/5678df66-f3eb-4d22-a6cf-cd4a8c35ea10);
+        background-repeat:no-repeat;
+        background-size:contain;
+        background-position:top right;}
+    .container {height: 100vg;}
+    .container_____botão{background-color: var(--botão-azul);
+    border-radius: 5px;
+    padding: 1 em;
+    color: var(--branco pricipal);
+    display:block}
